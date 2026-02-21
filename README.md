@@ -2,29 +2,51 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [MEDFIND] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [SheHack]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [SHIBLA K C] - [College of Engineering Munnar]
+- Member 2: [Fidha babu] - [College of Engineering Munnar]
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[MedFind is a web-based application designed to help users quickly locate medicines available in nearby pharmacies. The platform allows users to search by city or pincode and instantly view medicine availability, pricing, and stock status.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Finding required medicines during emergencies or urgent situations can be stressful and time-consuming. Patients often face:
+
+• Uncertainty about medicine availability
+• Wasted trips to pharmacies
+• Lack of price transparency
+• Difficulty locating stocked pharmacies
+• No centralized medicine search system
+
+There is a need for a simple, accessible solution that allows users to quickly check medicine availability and compare prices across pharmacies.?]
 
 ### The Solution
-[How are you solving it?]
+[✔️ Location-Based Search
+Users can search medicines by entering a city or pincode.
 
----
+✔️ Real-Time Stock Visibility
+Displays whether a medicine is In Stock or Out of Stock.
+
+✔️ Price Comparison
+Helps users find the most affordable option.
+
+✔️ Admin Inventory Management
+Admins can securely log in and:
+– Update stock
+– Modify prices
+– Manage medicine listings
+
+✔️ Fast & User-Friendly Interface
+Designed for quick access, especially during urgent needs.]
 
 ## Technical Details
 
