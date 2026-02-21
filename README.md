@@ -52,18 +52,24 @@ Designed for quick access, especially during urgent needs.]
 
 ### Technologies/Components Used
 
-**For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+💻 Frontend
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+• HTML5 – Structure of the web pages
+• CSS3 – Styling, layout, responsive design
+• JavaScript (Vanilla JS) – Dynamic behavior, search logic, API calls
 
----
+🧠 Backend (edit based on what you used)
+
+Option 1 (if Node.js):
+• Node.js – Server-side runtime
+• Express.js – API routing & server handling
+
+Option 2 (if Python):
+• Python – Backend logic
+• Flask / FastAPI – API framework
+
+Option 3 (if no backend / demo):
+• Static JSON / Fake Database – Simulated data storage
 
 ## Features
 
