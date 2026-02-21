@@ -84,29 +84,10 @@ List the key features of your project:
 ## Implementation
 
 ### For Software:
-
-#### Installation
-```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
-
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+[Run commands - node server.js]
 ```
-
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
-
-## Project Documentation
-
 ### For Software:
 
 #### Screenshots (Add at least 3)
